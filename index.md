@@ -1,6 +1,4 @@
-## Welcome to JMBELVAR81 Homepage!
-
-### What's this site exactly?!
+## What's this site exactly?!
 
 A place where read about technology, especially automation, cloud, hardware, and DevOps related. 
 
@@ -8,7 +6,7 @@ Sometimes referencing my projects and works.
 
 I hope that you enjoy it :smile:
 
-### Contact
+## Contact
 
 Please!!, Feels free to contact me on this GitHub Account. 
 
