@@ -2,12 +2,16 @@
 
 ### What's this site exactly?!
 
-This is a place where I will reference my projects, write about my technology interests, works and maybe much more. 
+A place where read about technology, especially automation, cloud, hardware, and DevOps related. 
 
-I hope that you enjoy it :-)
+Sometimes referencing my projects and works.
+
+I hope that you enjoy it :smile:
 
 ### Contact
 
-If you want talk to me about the content of this humble site, propose ideas for project that you would like see here or collaborate in the described projects. Please, feels free to contact me at this Github account. 
+Please!!, Feels free to contact me on this GitHub Account. 
+
+All your thinking, ideas, and suggestions will be welcome. 
 
 Thank you in advance for your messages and commentaries!
