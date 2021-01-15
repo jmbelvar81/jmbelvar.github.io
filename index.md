@@ -2,7 +2,7 @@
 
 ### What's this site exactly?!
 
-This is a place where I will reference my projects, write about my technology interests and works and maybe much more. 
+This is a place where I will reference my projects, write about my technology interests, works and maybe much more. 
 
 I hope that you enjoy it :-)
 
