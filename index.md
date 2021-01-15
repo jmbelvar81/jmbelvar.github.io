@@ -4,7 +4,7 @@ A place where read about technology, especially automation, cloud, hardware, and
 
 Sometimes referencing my projects and works.
 
-I hope that you enjoy it :smile:
+I hope that you enjoy it!!
 
 ## Contact
 
